@@ -9,4 +9,4 @@
 >>3.跳提醒通知玩家
 
 > Wireframe 圖:
->>
+>>![image](https://github.com/Pzncu666/final/blob/Pzncu666-patch-1/plan.jpg)
